@@ -573,7 +573,6 @@ a {
     padding: 100px 100px;
     display: flex;
     flex-direction: row;
-    margin-top: 170px;
     max-width: 1500px;
-    margin: auto;
+    margin: 200px auto 0 0;
 }
