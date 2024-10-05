@@ -1,8 +1,8 @@
 <img src="public/dapurpanen.png" alt="dapurpanen" width="100%">
 
-# Hi there, welcome to Portal PLN 👋
+# Hi there, welcome to Dapur Panen 👋
 
-**Portal PLN Nusantara Power** is a dedicated platform designed for PT PLN Nusantara Power employees, providing easy access to the latest news, event agendas, calendars, and quick links to essential applications. 
+**Dapur Panen** is a catering website that offers a wide selection of delicious, freshly prepared meals for various events and occasions. From personalized menus to professional delivery services, DapurPanen ensures a convenient and delightful dining experience for every customer.. 
 
 > **Note**: This website previously utilized an API from PLN Nusantara Power, which is no longer accessible. However, if you'd like to explore the frontend design, feel free to clone the `frontend` branch from the repository.
 
