@@ -1,4 +1,4 @@
-<img src="public/dapurpanen.png" alt="dapurpanen" width="100%">
+<img src="public/dp.png" alt="dapurpanen" width="100%">
 
 # Hi there, welcome to Dapur Panen 👋
 
